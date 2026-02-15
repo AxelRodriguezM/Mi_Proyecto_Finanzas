@@ -3,7 +3,7 @@
 Este proyecto es una herramienta interactiva de Data Science que simula y compara el rendimiento de una estrategia de trading algorítmico contra el mercado real.
 
 ## 🚀 Ver Demo en Vivo
-[Aquí pondrás tu link de Streamlit cuando lo tengas]
+(https://miproyectofinanzas.streamlit.app/)
 
 ## 📋 Descripción
 El objetivo es analizar si una estrategia técnica simple (Cruce de Medias Móviles) puede reducir el riesgo (Drawdown) comparado con simplemente comprar y mantener una acción (Buy & Hold).
